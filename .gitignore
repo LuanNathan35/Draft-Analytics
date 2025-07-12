@@ -1,0 +1,14 @@
+# Ignorar arquivos de configuração com chaves de API
+config.py
+
+# Ignorar ambientes virtuais
+venv/
+.venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de dados gerados
+*.json
+*.csv
